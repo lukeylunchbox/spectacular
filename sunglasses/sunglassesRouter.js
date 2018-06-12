@@ -2,7 +2,6 @@ const express = require('express')
 const Sunglasses = require('./Sunglasses')
 const router = express.Router()
 
-// all our cats
 router.get('/', (req, res) => {  
     Sunglasses.all()
     .then(cats =>  {

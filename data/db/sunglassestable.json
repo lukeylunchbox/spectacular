@@ -1,0 +1,28 @@
+[
+    {
+        "frameStyle": "Aviator",
+        "colour": "Pink",
+        "lensTint": "Dark",
+        "size": "Adult",
+        "price": 30000
+    },
+
+    {
+        "frameStyle": "Norris",
+        "colour": "Red",
+        "lensTint": "Dark",
+        "material": "Plastic",
+        "size": "Adult",
+        "price": 30000
+    },
+
+    {
+        "frameStyle": "Wayfarer",
+        "colour": "Red",
+        "lensTint": "Dark",
+        "material": "Plastic",
+        "size": "Kids",
+        "price": 20000
+    }
+]
+

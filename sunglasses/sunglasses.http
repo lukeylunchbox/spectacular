@@ -1,0 +1,10 @@
+POST http://localhost:3000/sunglasses 
+Content-Type: application/json
+
+{
+        "frameStyle": "Aviator",
+        "colour": "Pink",
+        "lensTint": "Dark",
+        "size": "Adult",
+        "price": 30000 
+}
